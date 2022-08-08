@@ -2,16 +2,22 @@
 ### a)
 grep "beed" forest/filescan_00.1
 grep "blas" forest/filescan_00.1
+grep "izard" forest/filescan_00.2
 grep "pika" forest/filescan_00.3
-grep "psy" forest/filescan_00.5
+grep "psy" forest/filescan_00.4
+
 
 
 
 ### b)
 
-
+check captured directory...
 
 ### c)
+filescan_00.1
+filescan_00.2
+filescan_00.3
+filescan_00.4
 
 
 
