@@ -1,6 +1,9 @@
 # Part 1
 ### a)
-
+grep "beed" forest/filescan_00.1
+grep "blas" forest/filescan_00.1
+grep "pika" forest/filescan_00.3
+grep "psy" forest/filescan_00.5
 
 
 
